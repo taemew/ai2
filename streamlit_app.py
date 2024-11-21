@@ -3,7 +3,7 @@
 
 import streamlit as st
 from fastai.vision.all import *
-from PIL import Image
+from PIL import Imagㄷ
 import gdown
 
 # Google Drive 파일 ID
